@@ -1,6 +1,6 @@
 # 简历 | Profile
 
-**梁涌祺 | Yongqi Liang**
+### **梁涌祺 | Yongqi Liang**
 
 **Intern@Capgemini | Microsoft Student Ambassador | Computer Science Student**
 
