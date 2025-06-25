@@ -6,7 +6,7 @@
 
 ## Experience
 
-2024.12 - Present | Capgemini(China) | Consultant
+2024.12 - Present | Capgemini(China) | Consulting IT Specialist
 
 2024.08 - 2024.10 | Weaver | Software Developer Engineer
 
