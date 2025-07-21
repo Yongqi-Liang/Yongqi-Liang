@@ -2,11 +2,11 @@
 
 ### **梁涌祺 | Yongqi Liang**
 
-**Intern@Capgemini | Microsoft Student Ambassador | Computer Science Student**
+**Associate Software Engineer @Capgemini | Microsoft Student Ambassador | Computer Science Student**
 
 ## Experience
 
-2024.12 - Present | Capgemini(China) | Consulting IT Specialist
+2024.12 - Present | Capgemini(China) | Consulting IT Specialist & Associate Software Engineer
 
 2024.08 - 2024.10 | Weaver | Software Developer Engineer
 
