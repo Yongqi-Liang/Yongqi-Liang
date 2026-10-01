@@ -2,7 +2,7 @@
 
 ### **梁涌祺 | Yongqi Liang**
 
-**Associate Software Engineer @Capgemini | Microsoft Student Ambassador | Computer Science Student**
+**Associate Software Engineer @Capgemini | Microsoft Student Ambassador | UN&TEDx Volunteer**
 
 ## Experience
 
