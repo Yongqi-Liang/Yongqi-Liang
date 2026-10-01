@@ -1,4 +1,4 @@
-# 简历 | Profile
+# Profile
 
 ### **梁涌祺 | Yongqi Liang**
 
